@@ -72,9 +72,9 @@ export default function LandingPage() {
           <div className="absolute inset-0 bg-gradient-to-b from-orange-500/10 to-transparent rounded-xl blur-xl"></div>
           <div className="relative bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden">
             <Image
-              src="/placeholder.svg?height=600&width=1200"
-              width={1200}
-              height={600}
+              src="/genebean1.png?height=600&width=1200"
+              width={600}
+              height={300}
               alt="Gene Beans DNA Coffee Analysis"
               className="w-full object-cover"
             />
@@ -165,30 +165,30 @@ export default function LandingPage() {
           <div className="grid grid-cols-2 gap-4">
             <div className="space-y-4">
               <Image
-                src="/placeholder.svg?height=300&width=300"
+                src="/scientistbean.png?height=300&width=300"
                 width={300}
                 height={300}
                 alt="Coffee beans close-up"
                 className="rounded-lg object-cover h-full w-full"
               />
               <Image
-                src="/placeholder.svg?height=200&width=300"
+                src="/diversitybean.png?height=200&width=300"
                 width={300}
-                height={200}
+                height={100}
                 alt="DNA visualization"
                 className="rounded-lg object-cover h-full w-full"
               />
             </div>
             <div className="space-y-4">
               <Image
-                src="/placeholder.svg?height=200&width=300"
+                src="/diversitybean.png?height=200&width=300"
                 width={300}
                 height={200}
                 alt="Coffee plantation"
                 className="rounded-lg object-cover h-full w-full"
               />
               <Image
-                src="/placeholder.svg?height=300&width=300"
+                src="/genebean1.png?height=300&width=300"
                 width={300}
                 height={300}
                 alt="Coffee brewing"
@@ -212,7 +212,7 @@ export default function LandingPage() {
             <div
               className="w-full h-full"
               style={{
-                backgroundImage: "url('/placeholder.svg?height=100&width=100')",
+                backgroundImage: "url('/genebean1.png?height=100&width=100')",
                 backgroundSize: "100px",
                 backgroundRepeat: "repeat",
               }}
@@ -298,7 +298,7 @@ export default function LandingPage() {
           <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
             <div className="flex items-center gap-3 mb-4">
               <Image
-                src="/placeholder.svg?height=48&width=48"
+                src="/genebean1.png?height=48&width=48"
                 width={48}
                 height={48}
                 alt="Customer"
@@ -317,7 +317,7 @@ export default function LandingPage() {
           <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
             <div className="flex items-center gap-3 mb-4">
               <Image
-                src="/placeholder.svg?height=48&width=48"
+                src="/genebean1.png?height=48&width=48"
                 width={48}
                 height={48}
                 alt="Customer"
@@ -336,7 +336,7 @@ export default function LandingPage() {
           <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
             <div className="flex items-center gap-3 mb-4">
               <Image
-                src="/placeholder.svg?height=48&width=48"
+                src="/genebean1.png?height=48&width=48"
                 width={48}
                 height={48}
                 alt="Customer"
@@ -406,7 +406,7 @@ export default function LandingPage() {
             <div
               className="w-full h-full"
               style={{
-                backgroundImage: "url('/placeholder.svg?height=200&width=200')",
+                backgroundImage: "url('/genebean1.png?height=200&width=200')",
                 backgroundSize: "200px",
                 backgroundRepeat: "repeat",
               }}
